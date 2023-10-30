@@ -1,0 +1,15 @@
+node_modules
+environnement.js
+
+# const ENV = {
+#     RANDOM_TOKEN_SECRET: "secret_key",
+#     PORT: your_port,
+#     DB_ID: "your_db_id",
+#     DB_PASSWORD: 'your_password'
+# };
+
+# module.exports = ENV;
+
+*.log
+
+package-lock.json
